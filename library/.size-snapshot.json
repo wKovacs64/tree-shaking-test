@@ -1,0 +1,16 @@
+{
+  "es/tsl.js": {
+    "bundled": 330,
+    "minified": 236,
+    "gzipped": 199,
+    "treeshaked": {
+      "rollup": {
+        "code": 23,
+        "import_statements": 23
+      },
+      "webpack": {
+        "code": 1007
+      }
+    }
+  }
+}
