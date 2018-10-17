@@ -59,3 +59,11 @@ yarn analyze
 ##### New Results
 
 The external `jssha` module is not included in the bundle.
+
+## Cleanup
+
+##### In the `library` directory:
+
+```sh
+yarn unlink
+```
