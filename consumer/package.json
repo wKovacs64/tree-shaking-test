@@ -24,6 +24,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "webpack-bundle-analyzer": "3.0.3"
+    "webpack-bundle-analyzer": "3.3.2"
   }
 }
